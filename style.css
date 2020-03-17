@@ -1,0 +1,31 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin-left: 0em;
+  margin-top: 0em;
+}
+nav {
+  display: block;
+  background-color: #ffbeef;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+nav a {
+  font-family: "Roboto", sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-right: solid 1px;
+}
+header h1 {
+  display: block;
+  text-align: center;
+}
+#main-image {
+  display: block;
+  text-align: center;
+}
+
+img {
+    width: 100%;
+}
